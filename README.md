@@ -1,2 +1,2 @@
 - Nơi tổng hợp lại kiến thức đã được học về Đồ Họa Máy tính ...
-![](https://www.google.com/search?q=loading+gif&tbm=isch&ved=2ahUKEwiG0-nM_v2EAxWrXvUHHaWbAs4Q2-cCegQIABAA&oq=loading+gif&gs_lp=EgNpbWciC2xvYWRpbmcgZ2lmMggQABiABBixAzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEimCFAAWJEGcAB4AJABAJgBswKgAZEIqgEHMC4zLjEuMbgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgINEAAYgAQYigUYQxixA8ICChAAGIAEGIoFGEPCAgYQABgIGB6IBgE&sclient=img&ei=NUv4ZcbkI6u91e8PpbeK8Aw&bih=559&biw=1280&prmd=ivsnbtz&rlz=1C1FKPE_viVN1030VN1030#imgrc=jD06kiygeTbiOM)
+![load-loading](https://github.com/LeTienQuyet/ComputerGraphics-CS105/assets/97799935/0712bdbd-d12c-49c9-825f-b499c10b50ec)
